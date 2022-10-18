@@ -22,6 +22,5 @@ Time spent: 4 hours spent in total
 
 Here's a walkthrough of implemented user stories:
 
-<img src = "https://user-images.githubusercontent.com/65494126/194954163-59a3edab-8b90-4e15-8552-4137b93548b1.gif" width=250 />
+<img src = "https://user-images.githubusercontent.com/65494126/196361653-d2ef333a-8aa0-4f7b-8a3b-a7b9de2bfa40.gif" width=250 />
 
----
